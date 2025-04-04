@@ -1,0 +1,17 @@
+name: SunClearE
+version: '1.0'
+main: me.fayns.suncleare.SunClearE
+api-version: '1.16'
+authors: [fayns]
+commands:
+  clear:
+    description: Clear inventory or specific items
+    usage: /<command> [material] [amount]
+  ggclear:
+    description: Reload GGClear config
+    usage: /<command> reload
+permissions:
+  ggclear.use:
+    default: op
+  ggclear.reload:
+    default: op

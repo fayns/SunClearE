@@ -1,0 +1,11 @@
+messages:
+  only-player: "&cТолько игрок может использовать эту команду."
+  no-permission: "&cУ тебя нет прав для этого."
+  inventory-cleared: "&aТвой инвентарь был очищен."
+  items-cleared: "&aУдалено %amount% предметов типа %material%."
+  invalid-material: "&cМатериал %material% не найден."
+  invalid-amount: "&cКоличество должно быть положительным числом."
+  invalid-number: "&cТы ввел не число!"
+  usage: "&eИспользование: /clear (предмет) (число)"
+  reload-usage: "&eИспользование: /ggclear reload"
+  reloaded: "&aКонфиг успешно перезагружен!"
